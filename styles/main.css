@@ -1,0 +1,27 @@
+body {
+    background-color: antiquewhite;
+    font-size: 100%;
+}
+
+h1 {
+    text-decoration: underline;
+    color: rgb(218, 40, 40);
+}
+
+h3 {
+    margin: 0.2rem;
+}
+
+button {
+    margin: 0.2rem;
+}
+
+.container {
+    text-align: center;
+}
+
+.Alert {
+    border: 1.5px solid grey;
+    border-radius: 15px;
+    margin: 10px;
+}
